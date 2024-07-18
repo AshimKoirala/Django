@@ -1,0 +1,23 @@
+
+going_merry/going_merry/secretkey.py
+
+#Ignore database sqlite
+db.sqlite3
+
+# Ignore media uploads 
+going_merry/item_images/
+
+
+# Ignore environment-specific settings
+env/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor specific files
+*.swp
+*.swo
+
+# Ignore logs and other generated files
+/logs/
+/tmp/
